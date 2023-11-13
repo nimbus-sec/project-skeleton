@@ -12,3 +12,6 @@ tags:
 project:
 
   name: root-project
+
+  container_images:
+    - name: cilium/cilium-win-multi
