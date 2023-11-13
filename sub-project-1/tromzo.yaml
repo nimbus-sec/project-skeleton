@@ -1,0 +1,17 @@
+version: 1
+
+default_branch: main
+
+is_mono_repo: false
+
+name: project-skeleton
+
+tags:
+    - tag: nimbus-projects
+
+project:
+
+  name: sub-project-1
+
+  container_images:
+    - name: cilium/cilium-win-multi
