@@ -12,6 +12,3 @@ tags:
 project:
 
   name: sub-project-1
-
-  container_images:
-    - name: cilium/cilium-win-multi

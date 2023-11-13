@@ -2,7 +2,7 @@ version: 1
 
 default_branch: main
 
-is_mono_repo: true
+is_mono_repo: false
 
 name: project-skeleton
 
