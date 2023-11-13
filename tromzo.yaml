@@ -1,0 +1,14 @@
+version: 1
+
+default_branch: main
+
+is_mono_repo: true
+
+name: project-skeleton
+
+tags:
+    - tag: nimbus-projects
+
+project:
+
+  name: root-project
