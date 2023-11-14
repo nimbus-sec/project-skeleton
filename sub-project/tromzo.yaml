@@ -4,7 +4,7 @@ default_branch: main
 
 is_mono_repo: false
 
-name: nimbus-sec/project-skeleton
+name: project-skeleton
 
 tags:
     - tag: nimbus-projects
